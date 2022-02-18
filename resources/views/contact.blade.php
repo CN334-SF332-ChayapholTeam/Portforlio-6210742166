@@ -109,11 +109,11 @@
             <nav>
                 <img class="logo" src="https://pngimage.net/wp-content/uploads/2018/06/png-portfolio-3.png">
                 <ul>
-                    <li><a href="#">Home</a></li>
-                    <li><a href="#">About me</a></li>
-                    <li><a href="#">Education</a></li>
-                    <li><a href="#">Skills</a></li>
-                    <li><a href="#">Contact</a></li>
+                    <li><a href="/">Home</a></li>
+                    <li><a href="/about">About me</a></li>
+                    <li><a href="/education">Education</a></li>
+                    <li><a href="/skills">Skills</a></li>
+                    <li><a href="/contact">Contact</a></li>
                 </ul>
             </nav>
         </div>

@@ -21,3 +21,15 @@ Route::get('/', function () {
 Route::get('/about', function () {
     return view('about');
 });
+
+Route::get('/education', function () {
+    return view('education');
+});
+
+Route::get('/skills', function () {
+    return view('skills');
+});
+
+Route::get('/contact', function () {
+    return view('contact');
+});
