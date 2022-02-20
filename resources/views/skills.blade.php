@@ -133,7 +133,7 @@
                 <a href="#">PHP</a>
                 <a href="#">SQL</a>
                 <a href="#">HTML</a>
-                <a href="#">JacaScript</a>
+                <a href="#">JavaScript</a>
             </nav>
         </div>
         <div class="center">
